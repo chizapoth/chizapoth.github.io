@@ -1,5 +1,5 @@
 ---
-title: "Chi Zhang"
+title: "Wen Yin"
 image: misc/info/photo.png
 about:
   id: hero-heading
