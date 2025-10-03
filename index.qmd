@@ -1,6 +1,6 @@
 ---
-title: "Chi Zhang"
-image: misc/info/photo.png
+title: "Xueyu Rui"
+image: D:/Users/备份/文件/文件/其他/rui.jpg
 about:
   id: hero-heading
   template: trestles
@@ -8,28 +8,19 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: chizapoth@gmail.com
-      href: mailto:chizapoth@gmail.com
+      text: ruixueyu1116@outlook.com
+      href: mailto:ruixueyu1116@outlook.com
     - icon: github
-      text: chizapoth
-      href: https://github.com/chizapoth
-    - icon: linkedin
-      text: Chi Zhang
-      href: https://www.linkedin.com/in/chizapoth/
+      text: SilentLight
+      href: https://github.com/MrRuixy
+   # - icon: linkedin
+    #  text: Xueyu Rui
+     # href: https://www.linkedin.com/in/chizapoth/
 ---
 
 ::: {#hero-heading}
 
-Hello! 
-
-I am a data scientist at Roche.
-
-In a previous role, I worked at the Faculty of Medicine, University of Oslo. I'm mostly interested in **RWD (real-world data)**, such as hospital **Electronic Health Record** and large public health registry data. I develop [ggehr](https://chizapoth.github.io/ggehr/), a ggplot2 extension to visualizing EHR data.
-
-In 2020-2022, I worked as part of the COVID emergency response at the [Norwegian Institute of Public Health](https://www.fhi.no/en/). I helped develop the open source real-time analysis and public health surveillance system, **Sykdomspulsen** (now [CSIDS](https://www.csids.no)). I am co-leading [CAMIS](https://psiaims.github.io/CAMIS/) working group. 
-
-As a part-time lecturer, I teach **statistics with R and Quarto** at Oslo Centre for Biostatistics and Epidemiology ([OCBE](https://www.med.uio.no/imb/english/research/centres/ocbe/)) and **R programming** at the [Carpentries workshops](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/) at UiO.
+Hello! I am a PhD student.
 
 
-I enjoy cooking and spending time in the mountains.
 :::
